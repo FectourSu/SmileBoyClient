@@ -13,7 +13,8 @@
     * [ ] Customer
 * [x] Creating a MongoDB database and connecting to it
 * [x] Creating ViewModels for entities and configuring mapping (Automapper)
-* [ ] Add XUnit tests
+* [x] Transferring the project to .NET 5.0
+* [x] Add XUnit tests
 * [ ] Create Identity Server
 * [ ] Adding modal windows for each entity
 * [ ] Add tables on the view
